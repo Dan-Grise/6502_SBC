@@ -1,0 +1,112 @@
+0.1u, qty=25, 311-3563-1-ND, $3.09
+C1, C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C14,C15,C16,C17,C20,C21,C22,C23,C24,C25,C27,C28,C29,C31
+
+10k, qty=3, S10KCACT-ND, $0.56 for 4
+R2,R3,R29
+
+0 OHM, qty=8, 0.0EBK-ND, $1.44 for 10
+R5,R6,R7,R8,R9,R10,R11,R18
+
+1K, qty=6, S1KCACT-ND, $1.00 for 10
+R4,R12,R15,R16,R33,R34
+
+74CH00, qty = 2, 296-1563-5-ND, $1.42
+U3, U13
+
+74HC238, qty=2, 296-25983-5-ND, $1.28 
+U5, U12
+
+push switch, qty=1, SW413-ND, $0.74
+SW1
+
+1MHz oscillator, qty = 1,CTX745-ND, $2.88
+Q1
+
+3x1 header, qty=3, 732-5316-ND, $0.54
+J1,J2,J7
+
+40-pin socket, qty= 4, 609-4716-ND, $3.40 for 4
+U1,U7,U8,U11
+
+28-pin socket, qty=2, 609-4715-ND, $1.18 for 2
+U4,U14
+
+24-pin socket, qty=1, 609-6034-ND, $0.63
+
+28-pin ZIF, A347-ND, $14.59
+U2
+
+resistor 330 OHM, qty=3, S330CACT-ND, $0.42.... maybe use S100CACT-ND  100 ohm on R22, R23 and 10k on R21
+R21, R22, R23
+
+diode schotky, qty=1, 1N5819FSCT-ND $0.57
+D1
+
+LED, qty=2, TLHG5205-ND (green) or 1080-1012-1-ND (blue) $1.58
+D2, D3
+
+NPN qty=3, 2N4401D26ZCT-ND $1.05
+Q2,Q3,Q4,
+
+USB Connector, A31725-ND $1.92
+J6
+
+47u 5mm DIA, 493-11607-1-ND $0.57
+C30
+
+switch on/off, CKC5106-ND $2.30
+SW2
+
+D-connector, qty=2, 609-5188-ND $3.32 for 2
+P1, P2
+
+RCA conn, qty=2, CP-1421-ND $1.89 and CP-1419-ND $1.89
+J4, J5
+
+22u 0805, qty=2, 490-12383-1-ND , $1.84 for 2
+C12,C26
+
+22k, qty=2, S22KQCT-ND $0.61 for 10
+R31,R32
+
+2.2k, qty 1,  S2.2KCACT-ND $0.14
+R13
+
+74HC02 qty 1 296-12770-5-ND $0.86
+U9
+
+10.7386MHz oscillator qty=1 CTX1443-ND $0.98
+X1
+
+39pF 0805 qty=2 1276-1769-1-ND $0.28 for 2
+C18,C19
+
+2-pin 952-2262-ND  $0.15
+J3
+
+470 OHM S470CACT-ND $0.14
+R30
+
+75 OHM S75CACT-ND $0.14
+R20
+
+74HC574 qty=3 296-1598-5-ND $2.31 for 3
+U15, U16, U17
+
+74HC04 qty=1 296-1566-5-ND $0.79
+U18
+
+74HC74 SOIC 296-1204-1-ND $0.71
+U27
+
+74HC00 SOIC 1727-2773-1-ND $0.71
+U25
+
+74HC165 SOIC 1727-2788-1-ND $0.55
+U26
+
+10MHZ OSC 1253-1284-1-ND $2.27
+X3
+
+solder
+SMDSW.0314OZ-ND
