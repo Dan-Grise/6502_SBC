@@ -3,7 +3,7 @@
 
 There are a couple of flaws with this design.
 
-1) The RCA connectors for video and audio outputs have signal and GND reverse.  Therefore it is necessary to build a cross over cable.
+1) The RCA connectors for video and audio outputs have signal and GND reversed.  Therefore it is necessary to build cross over cables for each.
 
 2) I have a relatively convoluted method for creating a write strobe.  This probably could have been simplified.
 
